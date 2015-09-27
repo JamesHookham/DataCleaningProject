@@ -24,6 +24,6 @@ Good luck!
 ## What are the different files in this repository?
 
 The following readme.md file contains all of the document that you will need to read the data for the Coursera cleaning data assessment. Contained in the repository are:
-## run_analysis.R : This is the main script used to transform the raw data to a tidied version.
-## tidy_data.txt : This file is the output file of run_analysis.R and contains the tidy data.
-## CodeBook.md : This markup contains information about the data variables and outlines the data transformations undertaken to obtain the tidied data.
+* run_analysis.R : This is the main script used to transform the raw data to a tidied version.
+* tidy_data.txt : This file is the output file of run_analysis.R and contains the tidy data.
+* CodeBook.md : This markup contains information about the data variables and outlines the data transformations undertaken to obtain the tidied data.
